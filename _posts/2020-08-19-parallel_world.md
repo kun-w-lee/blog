@@ -37,6 +37,7 @@ Coming back to the subject of this blog,
 On day, the scientists in the antarctic found an unusual signal from the ANITA's data. The data showed a very high energized neutrinos coming up from the ground, when it is supposed to be coming from the universe. Although, the scientists have researched neutrinos for many years, the such phenomenon was never seen before and was impossible to understand. Some suggested the data to be the ‘**dark matter**’ or ‘**sterile neutrino**’; however, was not able to prove and explain the signal’s origin.
 
 ![ANITA](https://www.hawaii.edu/news/wp-content/uploads/2018/12/manoa-antarctica-anita-balloon.jpg)
+_Picture of ANITA_
 
 ## Rumors Spread
 
