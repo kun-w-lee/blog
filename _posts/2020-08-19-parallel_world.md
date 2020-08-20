@@ -56,7 +56,7 @@ Since then, many media such as, [New York Post](https://nypost.com/2020/05/19/na
 
 ### Antarctica
 
-To refute, the scientists declared that it is one of the most unlikable explanations of the event. Furthermore, added that
+To refute, the scientists declared that it is one of the most unlikable explanations of the event. Furthermore, added that:
 
 > the particles sensed by the ANITA was not from the Earth’s ground but was related to the icecap of the Antarctic.
 
