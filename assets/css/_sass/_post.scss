@@ -10,7 +10,7 @@
   display: block;
   margin-bottom: 1rem;
   color: #9a9a9a;
-  font-size:0.8rem;
+  font-size: 0.8rem;
 }
 .featured-image img {
   align: middle;
@@ -27,7 +27,8 @@
     margin-top: 10px;
     margin-bottom: 10px;
   }
-  .featured-image img {
+  .featured-image img,
+  .body img {
     align: middle;
     margin: 5px auto 25px;
     display: block;
@@ -43,7 +44,8 @@
     margin-top: 10px;
     margin-bottom: 10px;
   }
-  .featured-image img {
+  .featured-image img,
+  .body img {
     align: middle;
     margin: 5px auto 25px;
     display: block;
@@ -64,7 +66,9 @@
 .related {
   padding-bottom: 1rem;
 }
-.related ul, ol, dl {
+.related ul,
+ol,
+dl {
   margin: 0px;
 }
 .related-posts {
@@ -84,22 +88,22 @@
   top: 50%;
   height: auto;
   width: 600px;
-  -webkit-transform: translate(-50%,-50%);
-      -ms-transform: translate(-50%,-50%);
-          transform: translate(-50%,-50%);
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
 }
 .related-title {
   float: right;
-  padding-bottom: .5rem;
+  padding-bottom: 0.5rem;
   font-family: $base-font-family;
 }
 @media (max-width: $container-width) {
-  .related-thumbnail{
+  .related-thumbnail {
     width: 60vw;
   }
 }
 @media (max-width: $tablet-width) {
-  .related-thumbnail{
+  .related-thumbnail {
     width: 95vw;
   }
 }
