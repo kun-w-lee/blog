@@ -39,7 +39,7 @@ The most powerful tool we have to observe the neutrinos is ANITA, helium balloon
 
 Coming back to the subject of this blog,
 
-On day, the scientists in the antarctic found an unusual signal from the ANITA's data. The data showed a very high energized neutrinos coming up from the ground, when it is supposed to be coming from the universe. Although, the scientists have researched neutrinos for many years, the such phenomenon was never seen before and was impossible to understand.
+the scientists in the antarctic found an unusual signal from the ANITA's data. The data showed a very high energized neutrinos coming up from the ground, when it is supposed to be coming from the universe. Although, the scientists have researched neutrinos for many years, the such phenomenon was never seen before and was impossible to understand.
 
 ![ANITA](https://www.hawaii.edu/news/wp-content/uploads/2018/12/manoa-antarctica-anita-balloon.jpg)
 
