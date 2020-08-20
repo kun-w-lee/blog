@@ -49,8 +49,10 @@ To replace the unpredictable tool, the scientists decided to rectify the sequenc
 <p style="margin-bottom:0;">Using the remade sequencer to analyze the 7000s of earthquakes occured in last 30 years, the scientists found 40% of equal echoes, which meant the existence of an enormously large structure that could not have been imagined until now.</p>
 
 <p style="margin-top:0; margin-bottom:0;">In other words, there were a lot more structures in the seismic waves’ paths.</p>
-<p style="margin-top:0; margin-bottom:0;">To conclude, the scientists declared that there is about 1000km length of ULVZ in the inner earth. <p/>
-<p style="margin-top:-17;">(the other structures found in the past were about 100km)</p>
+<p style="margin-top:0; margin-bottom:0;">To conclude, the scientists declared that there is about 1000km length of ULVZ in the inner earth. </p>
+<p style="margin-top:0;">(the other structures found in the past were about 100km)</p>
+
+---
 
 ![Mars hit Earth](https://i.ytimg.com/vi/cWL36zC6k28/hqdefault.jpg)
 
@@ -60,5 +62,5 @@ Moreover, the scientists revealed that the structures discovered is made with th
 
 ---
 
-<p style="margin-bottom: 0; font-size: 8px;">Citation:<p>
-<p style="margin-top:0; font-size: 8px;"> Kim, D., Lekić, V., Ménard, B., Baron, D., & Taghizadeh-Popp, M. (2020, June 12). Sequencing seismograms: A panoptic view of scattering in the core-mantle boundary region. Retrieved August 20, 2020, from https://science.sciencemag.org/content/368/6496/1223 <p>
+<p style="margin-bottom: 0; font-size: 13px;">Citation:</p>
+<p style="margin-top:0; font-size: 10px;"> Kim, D., Lekić, V., Ménard, B., Baron, D., & Taghizadeh-Popp, M. (2020, June 12). Sequencing seismograms: A panoptic view of scattering in the core-mantle boundary region. Retrieved August 20, 2020, from https://science.sciencemag.org/content/368/6496/1223 </p>
