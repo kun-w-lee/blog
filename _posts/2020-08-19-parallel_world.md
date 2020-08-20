@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NASA finds the Parallel Universe?"
+title: "NASA Found the Parallel Universe?"
 author: "Kun Lee"
 categories: facts
 tags: [sample]
