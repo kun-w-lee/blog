@@ -1,0 +1,53 @@
+---
+layout: post
+title: "Revealed Surface Under the Earth"
+author: "Kun Lee"
+categories: facts
+tags: [sample]
+image: inner-earth1.jpg
+---
+
+The team led by Dr.Kim from the University of Mayland has discovered massive structures than ever before with very high density at the boundary between the Earth's outer core and the lower mantle, as published in June 12, 2020.
+
+These kinds of structures were continuously found in the past, but we still lack in the knowledge of the origin of the materials.
+
+It might be coagulated magma, melt iron from the nucleus or another unpredictable substance.
+The scientists call these kinds of structures: **ULVZ, the Ultralow-velocity zone**
+
+---
+
+## UltraLow-Velocity Zone and Seismic Waves as a Tool
+
+!["ULVZ"](https://blog.kakaocdn.net/dn/lhxON/btqEPmcWZGw/Kzp1uePNW3GlZJVRRKYML1/img.jpg)
+
+The ULV Zone is located about under 2.9km from the crust. Since it is impossible for humans to reach the such depth, the scientists use **earthquakes** as a tool to investigate the events happening in the inner earth.
+
+!["Seismic Waves](https://wonderfulengineering.com/wp-content/uploads/2017/01/earthquake-1.png)
+
+Earthquakes produce seismic waves that can travel thousands of kilometers below the Earth's surface. These seismic waves are bent or scattered by the density and temperature of the rocks or the resistance of various materials, generating an echo that we can detect.
+
+The echoes arrive to us quicker as they are generated from closer structures, and bigger as the stricture is bigger.
+
+Using this characteristic, scientists installed seismographs in different locations to measure the travel time and amplitude of these echoes to determine the physical properties of rocks hidden beneath the surface.
+
+_bats' echolocation method_
+
+With the earthquake as a tool, the scientists were able to find out that there is an extremely huge surface between the Earth's outer core and the lower mantle as mentioned at first in this blog. This area had the characteristic to slow down the speed of seismic waves.
+
+However, using seismic waves was a frustrating tool to investigate further:
+
+1. Had to wait until the next earthquakes
+2. Only able to investigate a certain area
+3. Signals may be lost in the inner Earth.
+
+To replace the unpredictable tool, the scientists decided to rectify the sequencer used for investigation in stars as an inner earth explorer.
+
+Using the remade sequencer to analyze about seven- thousands of earthquakes in last 30 years, the scientists found 40% of equal echoes, which meant the existence of an enormously large structure that could not have been imagined until now. In other words, there were a lot more structures in the seismic waves’ paths.
+To conclude, the scientists declared that there is about 1000km length of ULVZ in the inner earth. (the other structures found in the past were about 100km)
+
+Moreover, the scientists revealed that the structures discovered is made with the composed of materials from the pre-moon period, meaning that it is a trace of a crash of early Earth and Mars.
+
+However, this analyzing result is still just a hypothesis. It is still unknown as said before. But it is assumed that the scientists will be available to soon find out the mystery of the high-velocity surface with the newly built analyzing method during this event.
+
+Citation:
+Kim, D., Lekić, V., Ménard, B., Baron, D., & Taghizadeh-Popp, M. (2020, June 12). Sequencing seismograms: A panoptic view of scattering in the core-mantle boundary region. Retrieved August 20, 2020, from https://science.sciencemag.org/content/368/6496/1223
