@@ -18,11 +18,11 @@ The scientists call these kinds of structures: **ULVZ, the Ultralow-velocity zon
 
 ## UltraLow-Velocity Zone and Seismic Waves as a Tool
 
-!["ULVZ"](https://blog.kakaocdn.net/dn/lhxON/btqEPmcWZGw/Kzp1uePNW3GlZJVRRKYML1/img.jpg)
+![ULVZ](https://blog.kakaocdn.net/dn/lhxON/btqEPmcWZGw/Kzp1uePNW3GlZJVRRKYML1/img.jpg)
 
 The ULV Zone is located about under 2.9km from the crust. Since it is impossible for humans to reach the such depth, the scientists use **earthquakes** as a tool to investigate the events happening in the inner earth.
 
-!["Seismic Waves](https://wonderfulengineering.com/wp-content/uploads/2017/01/earthquake-1.png)
+![Seismic Waves](https://wonderfulengineering.com/wp-content/uploads/2017/01/earthquake-1.png)
 
 Earthquakes produce seismic waves that can travel thousands of kilometers below the Earth's surface. These seismic waves are bent or scattered by the density and temperature of the rocks or the resistance of various materials, generating an echo that we can detect.
 
@@ -50,9 +50,9 @@ To replace the unpredictable tool, the scientists decided to rectify the sequenc
 
 <p style="margin-top:0; margin-bottom:0;">In other words, there were a lot more structures in the seismic waves’ paths.</p>
 <p style="margin-top:0; margin-bottom:0;">To conclude, the scientists declared that there is about 1000km length of ULVZ in the inner earth. <p/>
-<p style="margin-top:0;">(the other structures found in the past were about 100km)</p>
+<p style="margin-top:-17;">(the other structures found in the past were about 100km)</p>
 
-!["Mars hit Earth"](https://hips.hearstapps.com/pop.h-cdn.co/assets/16/04/1453868974-theia.jpg)
+![Mars hit Earth](https://i.ytimg.com/vi/cWL36zC6k28/hqdefault.jpg)
 
 Moreover, the scientists revealed that the structures discovered is made with the composed of materials from the pre-moon period, meaning that it is a trace of a crash of early Earth and Mars.
 
