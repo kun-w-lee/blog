@@ -22,7 +22,7 @@ The scientists call these kinds of structures: **ULVZ, the Ultralow-velocity zon
 
 The ULV Zone is located about under 2.9km from the crust. Since it is impossible for humans to reach the such depth, the scientists use **earthquakes** as a tool to investigate the events happening in the inner earth.
 
-![Seismic Waves](https://wonderfulengineering.com/wp-content/uploads/2017/01/earthquake-1.png)
+![Seismic Waves](https://www.desy.de/e409/e116959/e119238/media/6114/igel-seismic-waves.png)
 
 Earthquakes produce seismic waves that can travel thousands of kilometers below the Earth's surface. These seismic waves are bent or scattered by the density and temperature of the rocks or the resistance of various materials, generating an echo that we can detect.
 
@@ -36,9 +36,9 @@ The tool allowed to discover the extremely huge surface between the Earth's oute
 
 > However, using seismic waves was a frustrating tool to investigate further:
 
-> > 1.  Had to wait until the next earthquakes
-> > 2.  Only able to investigate a certain area
-> > 3.  Signals may be lost in the inner Earth.
+> 1.  Had to wait until the next earthquakes
+> 2.  Only able to investigate a certain area
+> 3.  Signals may be lost in the inner Earth.
 
 ---
 
