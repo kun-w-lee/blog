@@ -15,7 +15,7 @@ This argument about the new aspect of the world stared when the Antarctic Base f
 
 ## The Neutrinos
 
-Before we get into the subject of this article, we must know what <span style="font-weight: 1000">neutrinos</span> are.
+Before we get into the subject of this article, we must know what **neutrinos** are.
 
 The neutrinos are the richest subatomic particles that zip through the cosmos at nearly the speed of light. However, it is difficult to detect the particles because their mass is very low and can barely have interactions with other substances.
 
@@ -38,7 +38,7 @@ Coming back to the subject of this blog,
 On day, the scientists in the antarctic found an unusual signal from the ANITA's data. The data showed a very high energized neutrinos coming up from the ground, when it is supposed to be coming from the universe. Although, the scientists have researched neutrinos for many years, the such phenomenon was never seen before and was impossible to understand. Some suggested the data to be the ‘**dark matter**’ or ‘**sterile neutrino**’; however, was not able to prove and explain the signal’s origin.
 
 ![ANITA](https://www.hawaii.edu/news/wp-content/uploads/2018/12/manoa-antarctica-anita-balloon.jpg)
-_Picture of ANITA_
+_<p style="font-size: 14px;">Picture of ANITA</p>_
 
 ## Rumors Spread
 
