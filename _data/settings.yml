@@ -19,7 +19,7 @@ social:
   # - {icon: 'twitter', link: 'https://twitter.com/paululele'}
   # - {icon: 'facebook', link: 'https://www.facebook.com/Le.Paul.94'}
   # - {icon: 'instagram', link: 'https://instagram.com/paululele'}
-  - { icon: "github", link: '"https://kun.w.lee.github.io"' }
+  - { icon: "github", link: "https://kun-w-lee.github.io" }
   - { icon: "envelope", link: "mailto:kun.w.lee1111@gmail.com" }
   - { icon: "rss-square", link: "feed.xml" }
 # - {icon: 'rss-square', link: 'rss-feed.xml'}
