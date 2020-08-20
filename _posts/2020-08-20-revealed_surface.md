@@ -26,28 +26,39 @@ The ULV Zone is located about under 2.9km from the crust. Since it is impossible
 
 Earthquakes produce seismic waves that can travel thousands of kilometers below the Earth's surface. These seismic waves are bent or scattered by the density and temperature of the rocks or the resistance of various materials, generating an echo that we can detect.
 
-The echoes arrive to us quicker as they are generated from closer structures, and bigger as the stricture is bigger.
+The echoes arrive to us quicker as they are generated from closer structures, and gets bigger as the structure's size is bigger.
 
-Using this characteristic, scientists installed seismographs in different locations to measure the travel time and amplitude of these echoes to determine the physical properties of rocks hidden beneath the surface.
+<p style="margin-bottom: 0;">Using this characteristic, scientists installed seismographs in different locations to measure the travel time and amplitude of these echoes to determine the physical properties of rocks hidden beneath the surface.</p>
 
-_bats' echolocation method_
+<p style="margin-top: 0; text-decoration:underline;">like the bats' echolocation method</p>
 
-With the earthquake as a tool, the scientists were able to find out that there is an extremely huge surface between the Earth's outer core and the lower mantle as mentioned at first in this blog. This area had the characteristic to slow down the speed of seismic waves.
+The tool allowed to discover the extremely huge surface between the Earth's outer core and the lower mantle.
 
-However, using seismic waves was a frustrating tool to investigate further:
+> However, using seismic waves was a frustrating tool to investigate further:
 
-1. Had to wait until the next earthquakes
-2. Only able to investigate a certain area
-3. Signals may be lost in the inner Earth.
+> > 1.  Had to wait until the next earthquakes
+> > 2.  Only able to investigate a certain area
+> > 3.  Signals may be lost in the inner Earth.
+
+---
 
 To replace the unpredictable tool, the scientists decided to rectify the sequencer used for investigation in stars as an inner earth explorer.
 
-Using the remade sequencer to analyze about seven- thousands of earthquakes in last 30 years, the scientists found 40% of equal echoes, which meant the existence of an enormously large structure that could not have been imagined until now. In other words, there were a lot more structures in the seismic waves’ paths.
-To conclude, the scientists declared that there is about 1000km length of ULVZ in the inner earth. (the other structures found in the past were about 100km)
+![surface under earth GIF](https://blog.kakaocdn.net/dn/rTE0P/btqEP4peSey/gwKItRp2teHax0RuB36Snk/img.gif)
+
+<p style="margin-bottom:0;">Using the remade sequencer to analyze the 7000s of earthquakes occured in last 30 years, the scientists found 40% of equal echoes, which meant the existence of an enormously large structure that could not have been imagined until now.</p>
+
+<p style="margin-top:0; margin-bottom:0;">In other words, there were a lot more structures in the seismic waves’ paths.</p>
+<p style="margin-top:0; margin-bottom:0;">To conclude, the scientists declared that there is about 1000km length of ULVZ in the inner earth. <p/>
+<p style="margin-top:0;">(the other structures found in the past were about 100km)</p>
+
+!["Mars hit Earth"](https://hips.hearstapps.com/pop.h-cdn.co/assets/16/04/1453868974-theia.jpg)
 
 Moreover, the scientists revealed that the structures discovered is made with the composed of materials from the pre-moon period, meaning that it is a trace of a crash of early Earth and Mars.
 
-However, this analyzing result is still just a hypothesis. It is still unknown as said before. But it is assumed that the scientists will be available to soon find out the mystery of the high-velocity surface with the newly built analyzing method during this event.
+> However, this analyzing result is still just a hypothesis. It is still unknown as said before. But it is assumed that the scientists will be available to soon find out the mystery of the high-velocity surface with the newly built analyzing method during this event.
 
-Citation:
-Kim, D., Lekić, V., Ménard, B., Baron, D., & Taghizadeh-Popp, M. (2020, June 12). Sequencing seismograms: A panoptic view of scattering in the core-mantle boundary region. Retrieved August 20, 2020, from https://science.sciencemag.org/content/368/6496/1223
+---
+
+<p style="margin-bottom: 0; font-size: 8px;">Citation:<p>
+<p style="margin-top:0; font-size: 8px;"> Kim, D., Lekić, V., Ménard, B., Baron, D., & Taghizadeh-Popp, M. (2020, June 12). Sequencing seismograms: A panoptic view of scattering in the core-mantle boundary region. Retrieved August 20, 2020, from https://science.sciencemag.org/content/368/6496/1223 <p>
