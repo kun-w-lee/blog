@@ -56,7 +56,9 @@ Since then, many media such as, [New York Post](https://nypost.com/2020/05/19/na
 
 ### Antarctica
 
-To refute, the scientists declared that it is one of the most unlikable explanations of the event. Furthermore, added that the particles sensed by the ANITA was not from the Earth’s ground but was related to the icecap of the Antarctic.
+To refute, the scientists declared that it is one of the most unlikable explanations of the event. Furthermore, added that
+
+> the particles sensed by the ANITA was not from the Earth’s ground but was related to the icecap of the Antarctic.
 
 ![cosmic ray on ice](https://1wfcdq9s2x3wr2kv21wt8he-wpengine.netdna-ssl.com/wp-content/uploads/2018/07/IceCube-2000x900.jpg)
 
