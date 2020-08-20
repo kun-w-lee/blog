@@ -40,7 +40,10 @@ On day, the scientists in the antarctic found an unusual signal from the ANITA's
 
 ![ANITA](https://www.hawaii.edu/news/wp-content/uploads/2018/12/manoa-antarctica-anita-balloon.jpg)
 
-<p style="font-size: 14px;">Picture of ANITA</p>
+<p style="font-size: 11px;
+    font-style: italic;
+    margin-top: -24px;
+    color: grey;">Picture of ANITA</p>
 
 ## Rumors Spread
 
