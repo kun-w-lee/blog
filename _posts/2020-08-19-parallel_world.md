@@ -42,7 +42,7 @@ On day, the scientists in the antarctic found an unusual signal from the ANITA's
 
 <p style="font-size: 11px;
     font-style: italic;
-    margin-top: -24px;
+    margin-top: -14px;
     color: grey;">Picture of ANITA</p>
 
 ## Rumors Spread
