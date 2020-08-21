@@ -15,7 +15,7 @@ image: pointless-email.jpg
 
 ---
 
-<p style="margin-bottom: 0;">There are about **2.3 billion e-mail users** around the world.</p>
+There are about **2.3 billion e-mail users** around the world.
 
 <p style="margin-top: 0;">If each user deletes 50 e-mails, 8,625,000GB storage can be saved, which is equivalent to 8,423TB.</p>
 
