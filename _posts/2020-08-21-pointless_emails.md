@@ -52,5 +52,5 @@ Easy steps are required from you, to help saving the environment.
 
 ---
 
-[^1]: Citation:
-[^2]: 지금 당신이 쌓인 이메일을 지워야 하는 이유｜크랩" YouTube, uploaded by KLAB, 28 April 2020, https://www.youtube.com/watch?v=4aS7fNUG9Ps&t=44s
+<p style="margin-bottom: 0; font-size: 13px;">Citation:</p>
+<p style="margin-top:0; font-size: 10px;"> 지금 당신이 쌓인 이메일을 지워야 하는 이유｜크랩" YouTube, uploaded by KLAB, 28 April 2020, https://www.youtube.com/watch?v=4aS7fNUG9Ps&t=44s </p>
