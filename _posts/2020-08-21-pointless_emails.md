@@ -8,10 +8,10 @@ image: inner-earth1.jpg
 ---
 
 <h1 style="font-size: 24; display:inline-block">"</h1> 
-Having pointless e-mails can seriously harm the environment 
-<p style="font-size: 24; margin-bottom:0; display:inline-block;">"</p>
+<p style="display:inline-block">Having pointless e-mails can seriously harm the environment</p>
+<h1 style="font-size: 24; margin-bottom:0; display:inline-block;">"</h1>
 
-<h1 style="margin-top: 0; display:inline-block;">Is this true?</h1>
+<p style="margin-top: 0;">Is this true?</p>
 
 ---
 
@@ -31,9 +31,9 @@ To run the data center and the cooler, they use 32kwh of energy for 1GB of stora
 
 <p style="margin-bottom: 0;">Coming back to the e-mail part, 50 e-mails deleted by each user around the world can save 8,423TB, which means it saves 276,000,000kwh energy.</p>
 
-<p style="font-size: 24; display:inline-block;">"</p>
-It is as if turning off 2.7 billion lights for 1 hour.
-<p style="font-size: 24; margin-bottom:0; display:inline-block;">"</p>
+<h1 style="font-size: 24; display:inline-block;">"</h1>
+<p style="display:inline-block;">It is as if turning off 2.7 billion lights for 1 hour.</p>
+<h1 style="font-size: 24; margin-bottom:0; display:inline-block;">"</h1>
 
 ## What Should We Do?
 
