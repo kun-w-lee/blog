@@ -4,11 +4,11 @@ title: "Pointless E-mails: destroys Earth?"
 author: "Kun Lee"
 categories: facts
 tags: [sample]
-image: inner-earth1.jpg
+image: pointless-email.jpg
 ---
 
-<h1 style="font-size: 24; display:inline-block">"</h1> 
-<p style="display:inline-block">Having pointless e-mails can seriously harm the environment</p>
+<h1 style="font-size: 24; display:inline-block;">"</h1> 
+<p style="display:inline-block; text-style: bold;">Having pointless e-mails can seriously harm the environment</p>
 <h1 style="font-size: 24; margin-bottom:0; display:inline-block;">"</h1>
 
 <p style="margin-top: 0;">Is this true?</p>
@@ -21,6 +21,13 @@ image: inner-earth1.jpg
 
 ## What is that Storage?
 
+![data centre](https://www.datacenterknowledge.com/sites/datacenterknowledge.com/files/styles/article_featured_retina/public/Data-Center-Racks_0.jpg?itok=cHpNkyE_)
+
+<p style="font-size: 11px;
+    font-style: italic;
+    margin-top: -14px;
+    color: grey;">data center (from datacenterknowledge.com)</p>
+
 <p>Although we cannot see with our two eyes, enormous data are continuously traveling around through the LAN wires.</p>
 
 <p style="margin-bottom: 0; margin-top: 0;">All the data are stored in a place called the data center, which is country and companies have several or dozens of them.</p>
@@ -32,7 +39,7 @@ To run the data center and the cooler, they use 32kwh of energy for 1GB of stora
 <p style="margin-bottom: 0;">Coming back to the e-mail part, 50 e-mails deleted by each user around the world can save 8,423TB, which means it saves 276,000,000kwh energy.</p>
 
 <h1 style="font-size: 24; display:inline-block;">"</h1>
-<p style="display:inline-block;">It is as if turning off 2.7 billion lights for 1 hour.</p>
+<p style="display:inline-block; text-style: bold;">It is as if turning off 2.7 billion lights for 1 hour.</p>
 <h1 style="font-size: 24; margin-bottom:0; display:inline-block;">"</h1>
 
 ## What Should We Do?
