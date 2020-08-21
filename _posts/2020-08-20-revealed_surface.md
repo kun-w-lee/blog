@@ -20,9 +20,19 @@ The scientists call these kinds of structures: **ULVZ, the Ultralow-velocity zon
 
 ![ULVZ](https://blog.kakaocdn.net/dn/lhxON/btqEPmcWZGw/Kzp1uePNW3GlZJVRRKYML1/img.jpg)
 
+<p style="font-size: 11px;
+    font-style: italic;
+    margin-top: -14px;
+    color: grey;">ULVZ(from reze2010 of Tistory)</p>
+
 The ULV Zone is located about under 2.9km from the crust. Since it is impossible for humans to reach the such depth, the scientists use **earthquakes** as a tool to investigate the events happening in the inner earth.
 
 ![Seismic Waves](https://www.desy.de/e409/e116959/e119238/media/6114/igel-seismic-waves.png)
+
+<p style="font-size: 11px;
+    font-style: italic;
+    margin-top: -14px;
+    color: grey;">Seismic Waves (from DESY News)</p>
 
 Earthquakes produce seismic waves that can travel thousands of kilometers below the Earth's surface. These seismic waves are bent or scattered by the density and temperature of the rocks or the resistance of various materials, generating an echo that we can detect.
 
@@ -46,6 +56,11 @@ To replace the unpredictable tool, the scientists decided to rectify the sequenc
 
 ![surface under earth GIF](https://blog.kakaocdn.net/dn/rTE0P/btqEP4peSey/gwKItRp2teHax0RuB36Snk/img.gif)
 
+<p style="font-size: 11px;
+    font-style: italic;
+    margin-top: -14px;
+    color: grey;">Earth and ULVZ Result Diagram(from reze2010 of Tistory)</p>
+
 <p style="margin-bottom:0;">Using the remade sequencer to analyze the 7000s of earthquakes occured in last 30 years, the scientists found 40% of equal echoes, which meant the existence of an enormously large structure that could not have been imagined until now.</p>
 
 <p style="margin-top:0; margin-bottom:0;">In other words, there were a lot more structures in the seismic waves’ paths.</p>
@@ -55,6 +70,11 @@ To replace the unpredictable tool, the scientists decided to rectify the sequenc
 ---
 
 ![Mars hit Earth](https://i.ytimg.com/vi/cWL36zC6k28/hqdefault.jpg)
+
+<p style="font-size: 11px;
+    font-style: italic;
+    margin-top: -14px;
+    color: grey;">Mars and Earth Collision(from CDN)</p>
 
 Moreover, the scientists revealed that the structures discovered is made with the composed of materials from the pre-moon period, meaning that it is a trace of a crash of early Earth and Mars.
 
