@@ -63,8 +63,8 @@ To replace the unpredictable tool, the scientists decided to rectify the sequenc
 
 <p style="margin-bottom:0;">Using the remade sequencer to analyze the 7000s of earthquakes occured in last 30 years, the scientists found 40% of equal echoes, which meant the existence of an enormously large structure that could not have been imagined until now.</p>
 
-<p style="margin-top:0; margin-bottom:0;">In other words, there were a lot more structures in the seismic waves’ paths.</p>
-<p style="margin-top:0; margin-bottom:0;">To conclude, the scientists declared that there is about 1000km length of ULVZ in the inner earth. </p>
+<p style="margin-top:0;">In other words, there were a lot more structures in the seismic waves’ paths.</p>
+<p style="margin-bottom:0;">To conclude, the scientists declared that there is about 1000km length of ULVZ in the inner earth. </p>
 <p style="margin-top:0;">(the other structures found in the past were about 100km)</p>
 
 ---
