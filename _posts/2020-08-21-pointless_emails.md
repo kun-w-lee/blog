@@ -49,3 +49,6 @@ Easy steps are required from you, to help saving the environment.
 1. Delete your unnecessary e-mails. (spams, already read)
 2. Delete your pointless e-mails that you do not use.
 3. Share this fact to your network!
+
+[^1]: Citation:
+[^2]: 지금 당신이 쌓인 이메일을 지워야 하는 이유｜크랩" YouTube, uploaded by KLAB, 28 April 2020, https://www.youtube.com/watch?v=4aS7fNUG9Ps&t=44s
