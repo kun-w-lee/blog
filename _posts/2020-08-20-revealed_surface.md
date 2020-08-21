@@ -44,7 +44,7 @@ The echoes arrive to us quicker as they are generated from closer structures, an
 
 The tool allowed to discover the extremely huge surface between the Earth's outer core and the lower mantle.
 
-> However, using seismic waves was a frustrating tool to investigate further:
+> However, using seismic waves would not help for the further investigations:
 
 > 1.  Had to wait until the next earthquakes
 > 2.  Only able to investigate a certain area
