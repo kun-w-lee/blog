@@ -9,12 +9,12 @@ image: edmonton_wastes.png
 
 Millennial is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog. Below you can find everything you need to get started.
 
-## TEST TEST TEST4
-
-<!-- src="https://kun-w-lee.github.io/blog/assets/img/edmonton_wastes.png" -->
-<!-- `<img src="{{ site.github.url }}/assets/img/waste_graph1.png">` -->
+## TEST TEST TEST5
 
 ![hello](https://kun-w-lee.github.io/blog//assets/img/waste_graph1.png)
+![hello](https://kun-w-lee.github.io/blog//assets/img/waste_graph2.png)
+![hello](https://kun-w-lee.github.io/blog//assets/img/waste_graph3.png)
+![hello](https://kun-w-lee.github.io/blog//assets/img/waste_graph4.png)
 
 [Getting Started]({{ site.github.url }}{% post_url 2016-10-10-getting-started %}): getting started with installing Millennial, whether you are completely new to using Jekyll, or simply just migrating to a new Jekyll theme.
 
