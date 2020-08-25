@@ -11,6 +11,8 @@ Millennial is a minimalist Jekyll theme. The purpose of this theme is to provide
 
 ## Getting Started
 
+!()[/assets/img/waste_graph1.png]
+
 [Getting Started]({{ site.github.url }}{% post_url 2016-10-10-getting-started %}): getting started with installing Millennial, whether you are completely new to using Jekyll, or simply just migrating to a new Jekyll theme.
 
 ## Example Content
