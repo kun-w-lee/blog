@@ -21,7 +21,7 @@ To answer the goal of this project, I compared the amount of waste produced by p
 
 I used the dataset produced by the [City of Edmonton owned by the 'The Way We Green Email](https://dashboard.edmonton.ca/Environmental-Services/Waste-Produced-per-Person/wj9w-kkrb), which includes the variables such as, years, total tonnes of waste collected, total tonnes of recycling collected, kg of waste per capita, and population in Edmonton. The type of the data is CSV Document file, and it is stored internally. There are about 80 records stored and is a temporal data since the database stores data relating to time instances.
 
-## Product
+## Graph1
 
 ![hello](https://kun-w-lee.github.io/blog//assets/img/waste_graph1.png)
 
@@ -33,7 +33,8 @@ I used the dataset produced by the [City of Edmonton owned by the 'The Way We Gr
 In order to answer the topic, “are we making the progress in preserving the Earth by lessening to toxic garbage,” I decided to first check whether if people in Edmonton are producing more recyclable wastes compared to the overall wastes. However, as it shows in the graph, the number of recyables did not increase, but decreased compared to the increase of the overall wastes.
 
 To verify whether the overall wastes is incerasing, I added the population data to the graph.
-<br>
+
+## Graph2
 
 ![hello](https://kun-w-lee.github.io/blog//assets/img/waste_graph2.png)
 
@@ -46,7 +47,7 @@ Through the graph2, it was shown that the total wastes collected is relevant to 
 
 Therefore, I was able to find out that the increase of wastes is only due to the increase of population.
 
-<br>
+## Graph3
 
 ![hello](https://kun-w-lee.github.io/blog//assets/img/waste_graph3.png)
 
