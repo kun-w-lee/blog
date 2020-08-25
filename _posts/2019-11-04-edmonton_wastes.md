@@ -33,12 +33,13 @@ I used the dataset produced by the [City of Edmonton owned by the 'The Way We Gr
 In order to answer the topic, “are we making the progress in preserving the Earth by lessening to toxic garbage,” I decided to first check whether if people in Edmonton are producing more recyclable wastes compared to the overall wastes. However, as it shows in the graph, the number of recyables did not increase, but decreased compared to the increase of overall wastes.
 
 To verify whether the overall wastes is incerasing, I added the population data.
+
 ![hello](https://kun-w-lee.github.io/blog//assets/img/waste_graph2.png)
 
 <p style="font-size: 11px;
     font-style: italic;
     margin-top: -14px;
-    color: grey;">graph2/p>
+    color: grey;">graph2</p>
 
 Through the graph2, it was shown that the total wastes collected is relevant to the population.
 
