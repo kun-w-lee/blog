@@ -2,7 +2,7 @@
 layout: post
 title: "Map of Medical Centres in Richmond Hill"
 author: "Kun Lee"
-categories: sample
-tags: [sample]
+categories: maps
+tags: [maps]
 image: map_MedofRich.png
 ---
