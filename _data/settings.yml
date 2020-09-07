@@ -7,9 +7,9 @@ disqus:
 google-ID: "UA-112060364-2"
 
 menu:
-  - { name: "Earth Science Articles", folder: "pages", file: "facts.html" }
-  - { name: "Spatial Analysis", folder: "pages", file: "resources.html" }
-  - { name: "Sample Posts", folder: "pages", file: "sample-posts.html" }
+  - { name: "Earth Science Articles", folder: "pages", file: "science.html" }
+  - { name: "Spatial Analysis", folder: "pages", file: "analysis.html" }
+  - { name: "Maps", folder: "pages", file: "maps.html" }
   - { name: "Documentation", folder: "pages", file: "documentation.html" }
   - { name: "About", folder: "pages", file: "about.html" }
   - { name: "Contact", folder: "pages", file: "contact.html" }
